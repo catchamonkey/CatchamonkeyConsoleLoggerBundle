@@ -1,0 +1,31 @@
+{
+    "name": "catchamonkey/console-logger-bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "description": "Catchamonkey ConsoleLoggerBundle",
+    "keywords": ["console", "logger", "logging", "symfony", "bundle"],
+    "homepage": "http://github.com/catchamonkey/CatchamonkeyConsoleLoggerBundle",
+    "authors": [
+        {
+            "name": "Chris Sedlmayr",
+            "email": "chris@sedlmayr.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/framework-bundle": "~2.4",
+        "symfony/monolog-bundle": "~2.4"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {"": "src"},
+        "psr-0": {"Catchamonkey\\Bundle\\ConsoleLoggerBundle": ""}
+    },
+    "target-dir": "Catchamonkey/Bundle/ConsoleLoggerBundle"
+}
