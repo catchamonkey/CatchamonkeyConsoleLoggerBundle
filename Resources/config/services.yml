@@ -1,5 +1,5 @@
 parameters:
-    catchamonkey_console_logger.console_exception_listener.class:   Target\Bundle\AppBundle\EventListener\ConsoleExceptionListener
+    catchamonkey_console_logger.console_exception_listener.class:   Catchamonkey\Bundle\ConsoleLoggerBundle\EventListener\ConsoleExceptionListener
 
 services:
     kernel.listener.command_dispatch:
