@@ -2,7 +2,7 @@
     "name": "catchamonkey/console-logger-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
-    "description": "Catchamonkey ConsoleLoggerBundle",
+    "description": "Symfony2 bundles that adds logging of exceptions thrown in console commands.",
     "keywords": ["console", "logger", "logging", "symfony", "bundle"],
     "homepage": "http://github.com/catchamonkey/CatchamonkeyConsoleLoggerBundle",
     "authors": [
