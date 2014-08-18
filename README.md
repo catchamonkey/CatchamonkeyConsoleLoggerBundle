@@ -1,4 +1,4 @@
-##CatchamonkeyConsoleLoggerBundle [![Build Status](https://travis-ci.org/catchamonkey/CatchamonkeyConsoleLoggerBundle.svg?branch=master)](https://travis-ci.org/catchamonkey/CatchamonkeyConsoleLoggerBundle) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/8223103c-1bf3-4c14-bf0e-784f8994eda3/big.png)](https://insight.sensiolabs.com/projects/8223103c-1bf3-4c14-bf0e-784f8994eda3)
+##CatchamonkeyConsoleLoggerBundle [![Build Status](https://travis-ci.org/catchamonkey/CatchamonkeyConsoleLoggerBundle.svg?branch=master)](https://travis-ci.org/catchamonkey/CatchamonkeyConsoleLoggerBundle) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/fccaa6b6-75d7-4f08-afea-311384d78f8a/small.png)](https://insight.sensiolabs.com/projects/fccaa6b6-75d7-4f08-afea-311384d78f8a)
 
 Symfony2 bundles that adds logging of exceptions thrown in console commands
 
