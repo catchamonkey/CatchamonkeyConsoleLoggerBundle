@@ -6,21 +6,10 @@ Symfony2 bundles that adds logging of exceptions thrown in console commands
 
 Step 1) Download
 
-The recommended method is via composer.  
-Add the bundle as a dependency to your composer.json file
-
-```json
-{
-    "require": {
-        "catchamonkey/console-logger-bundle": "dev-master"
-    }
-}
-```
-
-Now tell composer to install this new requirement
+Download the bundle using [Composer](https://getcomposer.org/):
 
 ```bash
-composer update catchamonkey/console-logger-bundle
+composer require "catchamonkey/console-logger-bundle:dev-master"
 ```
 
 This will be installed into your vendor directory
