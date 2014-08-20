@@ -9,7 +9,7 @@ Step 1) Download
 Download the bundle using [Composer](https://getcomposer.org/):
 
 ```bash
-composer require "catchamonkey/console-logger-bundle:dev-master"
+composer require "catchamonkey/console-logger-bundle:~1.0"
 ```
 
 This will be installed into your vendor directory
